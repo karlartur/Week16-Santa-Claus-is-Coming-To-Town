@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa-Claus-is-Coming-To-Town.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa_Claus_is_Coming_To_Town.Form1.resources
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa_Claus_is_Coming_To_Town.Properties.Resources.resources
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa-Claus-is-Coming-To-Town.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa-Claus-is-Coming-To-Town.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\bin\Debug\Santa-Claus-is-Coming-To-Town.exe.config
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\bin\Debug\Santa-Claus-is-Coming-To-Town.exe
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\bin\Debug\Santa-Claus-is-Coming-To-Town.pdb
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa-Claus-is-Coming-To-Town.exe
+C:\Users\opilane\source\repos\Santa-Claus-is-Coming-To-Town\Santa-Claus-is-Coming-To-Town\obj\Debug\Santa-Claus-is-Coming-To-Town.pdb
